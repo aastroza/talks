@@ -1,6 +1,6 @@
 # pydaychile2025
 
-Este repositorio es el material de apoyo de mi presentación en el PyDay 2025 en Santiago.
+Este repositorio es el material de apoyo de mi presentación en el [PyDay 2025 en Santiago](https://pyday.cl/).
 
 - [Slides](https://docs.google.com/presentation/d/1i2J82xN0efrxlR1si2nLw8Msb89j_LLPaXWJZgoUAI8/edit?usp=sharing)
 - [Sitio de Datarisas](https://www.datarisas.cl/)
