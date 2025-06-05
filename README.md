@@ -12,7 +12,7 @@ Este repositorio es el material de apoyo de mi presentación en el [PyDay 2025 e
 ## Material citado
 
 - [Chile según Raúl Ruiz, de Ojo en Tinta](https://www.ojoentinta.com/chile-segun-raul-ruiz/).
-- [Humor en el Festival de Viña del Mar (2000 a 2019): ¿barómetro del estallido chileno?](https://comunicacionymedios.uchile.cl/index.php/RCM/article/view/70784).
+- [Humor en el Festival de Viña del Mar (2000 a 2019): ¿barómetro del estallido chileno?](https://comunicacionymedios.uchile.cl/index.php/RCM/article/view/70784), de [Andrés Mendiburo](https://cl.linkedin.com/in/andres-mendiburo-seguel) y [Gonzalo Serrano](https://cl.linkedin.com/in/gonzalo-serrano-del-pozo-220a8a60).
 - [Why ChatGPT is so bad at telling jokes?](https://www.youtube.com/shorts/nQuePUBzk2Q), de [Luis Serrano](https://www.youtube.com/@SerranoAcademy).
 - [No tan Humanos: Podcast sobre Inteligencia Artificial con Vicente Rotman](https://linktr.ee/nth.podcast).
 - [Ignacio Socías](https://ignaciosocias.com/).
