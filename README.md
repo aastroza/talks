@@ -2,7 +2,7 @@
 
 Este repositorio es el material de apoyo de mi presentación en el [PyDay 2025 en Santiago](https://pyday.cl/).
 
-- Slides: [GoogleDocs](https://docs.google.com/presentation/d/1i2J82xN0efrxlR1si2nLw8Msb89j_LLPaXWJZgoUAI8/edit?usp=sharing) | [.ppt]() | [.pdf]().
+- Slides: [GoogleDocs](https://docs.google.com/presentation/d/1i2J82xN0efrxlR1si2nLw8Msb89j_LLPaXWJZgoUAI8/edit?usp=sharing) | [.pptx](/DataRisas_PyDay2025SCL.pptx) | [.pdf](/DataRisas_PyDay2025SCL.pdf).
 - [Sitio de Datarisas](https://www.datarisas.cl/).
 - [Código de extracción de chistes y la base de datos de chistes de Datarisas](https://github.com/aastroza/chilean-humor).
 - [Fine-tuning de Mistral-7b](https://github.com/aastroza/mistral-fine-tuning). 
