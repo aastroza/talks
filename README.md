@@ -15,5 +15,5 @@ Este repositorio es el material de apoyo de mi presentación en el [PyDay 2025 e
 - [Humor en el Festival de Viña del Mar (2000 a 2019): ¿barómetro del estallido chileno?](https://comunicacionymedios.uchile.cl/index.php/RCM/article/view/70784), de [Andrés Mendiburo](https://cl.linkedin.com/in/andres-mendiburo-seguel) y [Gonzalo Serrano](https://cl.linkedin.com/in/gonzalo-serrano-del-pozo-220a8a60).
 - [The Complexity of Jokes Is Limited by Cognitive Constraints on Mentalizing](https://pubmed.ncbi.nlm.nih.gov/26597196/), de [Robin Dunbar](https://en.wikipedia.org/wiki/Robin_Dunbar), [Jacques Launay](https://greatergood.berkeley.edu/profile/jacques_launay#:~:text=Jacques%20Launay%20is%20a%20Postdoctoral,at%20the%20University%20of%20Oxford.), and [Oliver Curry](https://www.oliverscottcurry.com/).
 - [Why ChatGPT is so bad at telling jokes?](https://www.youtube.com/shorts/nQuePUBzk2Q), de [Luis Serrano](https://www.youtube.com/@SerranoAcademy).
-- [No tan Humanos: Podcast sobre Inteligencia Artificial con Vicente Rotman](https://linktr.ee/nth.podcast).
+- [No tan Humanos: Podcast sobre Inteligencia Artificial](https://linktr.ee/nth.podcast) con [Vicente Rotman](https://www.linkedin.com/in/vrotman/).
 - [Ignacio Socías](https://ignaciosocias.com/).
