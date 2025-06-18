@@ -1,5 +1,5 @@
-# Summit IA Aplicada DUOC 2025 - Santiago
-## 12 de junio de 2025
+# Summit IA Aplicada DUOC 2025 - Valparaíso
+## 19 de junio de 2025
 
 **Enlace a Google Colab: https://colab.research.google.com/drive/1YQJMyoAF1wVGgBokJToAPMcoQxDI8aeH?usp=sharing**
 
