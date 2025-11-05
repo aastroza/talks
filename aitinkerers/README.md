@@ -3,7 +3,7 @@
 
 Este repositorio es el material de apoyo de mi presentación en el capítulo 9 de [AI Tinkerers Santiago](https://santiago.aitinkerers.org/p/estructura-risa-y-ecosistemas-el-nuevo-adn-de-la-ia-chilena).
 
-- Slides: [GoogleDocs](https://docs.google.com/presentation/d/1a6hPzdpzeHYGaCjCJ5qY_Ty334jUiORuVnupp-lKEYU/edit?usp=sharing) | [.pptx](/duoc-summitia-scl/DataRisas_SummitIA2025-DUOC-SCL.pptx) | [.pdf](/duoc-summitia-scl/DataRisas_SummitIA2025-DUOC-SCL.pdf).
+- Slides: [GoogleDocs](https://docs.google.com/presentation/d/1a6hPzdpzeHYGaCjCJ5qY_Ty334jUiORuVnupp-lKEYU/edit?usp=sharing).
 - [Sitio de Datarisas](https://www.datarisas.cl/).
 - [Código de extracción de chistes y la base de datos de chistes de Datarisas](https://github.com/aastroza/chilean-humor).
 - [Fine-tuning de Mistral-7b](https://github.com/aastroza/mistral-fine-tuning). 
