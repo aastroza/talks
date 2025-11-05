@@ -1,4 +1,4 @@
 import qrcode
-img = qrcode.make('https://forms.gle/5FqBuDMa93xyoK7C7')
+img = qrcode.make('https://github.com/aastroza/talks/tree/main/paillaco')
 type(img)  # qrcode.image.pil.PilImage
-img.save("qr_humo_conce.png")
+img.save("qr_paillaco.png")
