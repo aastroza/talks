@@ -1,9 +1,10 @@
 # 9punto5 Paillaco
 ## 5 de noviembre de 2025
 
-Este repositorio es el material de apoyo de mi presentación en [9punto5 en Paillaco](https://santiago.aitinkerers.org/p/estructura-risa-y-ecosistemas-el-nuevo-adn-de-la-ia-chilena).
+Este repositorio es el material de apoyo de mi presentación en [9punto5 en Paillaco](https://9punto5.cl/) titulada "IA sin trucos: comprende cómo funciona y cómo obtener resultados útiles".
 
-- Slides: [GoogleDocs](https://docs.google.com/presentation/d/1MbnAK5y99IQtvhSOyEqSZH1i09YW5GwDzGqoxr-fpno/edit?usp=sharing) 
+- Slides: [GoogleDocs](https://docs.google.com/presentation/d/1MbnAK5y99IQtvhSOyEqSZH1i09YW5GwDzGqoxr-fpno/edit?usp=sharing)
+- Puedes seguirme en [GitHub](https://github.com/aastroza) (donde podrás ver todos mis otros proyectos), [Linkedin](https://linkedin.com/in/aastrozacl) y [X](https://twitter.com/aastroza).
 
 ## Material citado
 
