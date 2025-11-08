@@ -9,7 +9,7 @@ Este repositorio es el material de apoyo de mi taller en [9punto5](https://9punt
 
 ## Material recomendado
 
-- ["Getting Structured LLM Output"](https://www.deeplearning.ai/short-courses/getting-structured-llm-output/) de la startup [.txt](https://dottxt.co/)
+- [Getting Structured LLM Output](https://www.deeplearning.ai/short-courses/getting-structured-llm-output/) de la startup [.txt](https://dottxt.co/)
 - [Taming LLMs: A Practical Guide to LLM Pitfalls with Open Source Software](https://www.tamingllms.com/notebooks/structured_output.html#) de [Tharsis T. P. Souza](https://github.com/souzatharsis/).
 - [Structured Outputs by Example](https://structuredoutputsbyexamples.com/).
 - [Litelines](https://github.com/alonsosilvaallende/litelines).
