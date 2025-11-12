@@ -7,7 +7,7 @@
 
 Este repositorio es el material de apoyo de mi presentación en [Meli Talks](https://luma.com/yvpsc0gt?tk=PUDOaR).
 
-- Slides: [GoogleDocs](https://docs.google.com/presentation/d/e/2PACX-1vSPknSAia8Ku1d6XRh2deuGTh2cfN6X_D99TVSjYlYlHxo5Au7GPtxazGW5ql6vNowcqQ3JKTzjd9TN/pub?start=false&loop=false&delayms=3000).
+- Slides: [GoogleDocs](https://docs.google.com/presentation/d/1kmExbbWlnlqYC-8XgkBhD8kxtAzBai3BfQKjMIneDLM/edit?usp=sharing), [Presentación](https://docs.google.com/presentation/d/e/2PACX-1vSPknSAia8Ku1d6XRh2deuGTh2cfN6X_D99TVSjYlYlHxo5Au7GPtxazGW5ql6vNowcqQ3JKTzjd9TN/pub?start=false&loop=false&delayms=3000).
 - [Sitio de Datarisas](https://www.datarisas.cl/).
 - [Código de extracción de chistes y la base de datos de chistes de Datarisas](https://github.com/aastroza/chilean-humor).
 - [Fine-tuning de Mistral-7b](https://github.com/aastroza/mistral-fine-tuning). 
