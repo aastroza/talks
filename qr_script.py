@@ -1,4 +1,4 @@
 import qrcode
-img = qrcode.make('https://github.com/aastroza/talks/tree/main/9punto5dev')
+img = qrcode.make('https://github.com/aastroza/talks/tree/main/melitalks')
 type(img)  # qrcode.image.pil.PilImage
-img.save("qr_9punto5dev.png")
+img.save("qr_melitalks.png")
